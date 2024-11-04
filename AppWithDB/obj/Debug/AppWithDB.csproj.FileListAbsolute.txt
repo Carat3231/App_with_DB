@@ -1,0 +1,10 @@
+D:\C#\AppWithDB\AppWithDB\bin\Debug\AppWithDB.exe.config
+D:\C#\AppWithDB\AppWithDB\bin\Debug\AppWithDB.exe
+D:\C#\AppWithDB\AppWithDB\bin\Debug\AppWithDB.pdb
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.csproj.AssemblyReference.cache
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.csproj.SuggestedBindingRedirects.cache
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.Properties.Resources.resources
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.csproj.GenerateResource.cache
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.csproj.CoreCompileInputs.cache
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.exe
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.pdb
