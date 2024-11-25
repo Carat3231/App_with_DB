@@ -8,3 +8,5 @@ D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.csproj.GenerateResource.cache
 D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.csproj.CoreCompileInputs.cache
 D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.exe
 D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.pdb
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.log_in.resources
+D:\C#\AppWithDB\AppWithDB\obj\Debug\AppWithDB.Sign_up.resources

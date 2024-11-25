@@ -9,7 +9,7 @@ namespace AppWithDB
 {
     internal class DataBase
     {
-        SqlConnection sqlConnection = new SqlConnection(@"Data Source = CARAT; Initial Catalog = test_db; Integrated Security = True");
+        SqlConnection sqlConnection = new SqlConnection(@"Data Source = CARAT; Initial Catalog = demoPractice; Integrated Security = True");
 
         public void OpenConnection()
         {
